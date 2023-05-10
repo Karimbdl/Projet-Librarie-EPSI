@@ -21,8 +21,8 @@
         </div>
         <ul class="nav-links">
           <li><a href="index.php">Accueil</a></li>
-          <li><a href="account.php" class="account-img"><img src="/images/account.svg" alt="Account"></a></li>
-          <li><a href="inscription.php">inscription</a></li>
+          <li><a href="/pages/account.php" class="account-img"><img src="/images/account.svg" alt="Account"></a></li>
+          <li><a href="/pages/inscription.php">inscription</a></li>
 
         </ul>
       </div>
@@ -40,14 +40,6 @@
   </section>
   <section class="genre">
   <h1>Les genres populaires en ce moment !</h1>
-  <img src="/images/the witcher.jpg">
-      <img src="/images/blobid1673607345474.webp">
-      <img src="/images/the-witcher.svg">
-      <img src="/images/71SZwE9PrDL.jpg">
-    </div>
-
-
-
 
   </section>
 

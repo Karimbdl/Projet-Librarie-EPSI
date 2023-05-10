@@ -6,7 +6,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Maison du livre</title>
-  <link rel="stylesheet" href="/css/index.css">
+  <link rel="stylesheet" href="/css/inscription.css">
 </head>
 
 
@@ -20,7 +20,7 @@
           </form>
         </div>
         <ul class="nav-links">
-          <li><a href="#">Accueil</a></li>
+          <li><a href="/pages/index.php">Accueil</a></li>
           <li><a href="account.php" class="account-img"><img src="/images/account.svg" alt="Account"></a></li>
           <li><a href="inscription.php">Inscription</a></li>
 
